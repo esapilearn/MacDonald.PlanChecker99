@@ -10,6 +10,7 @@
                        Padding="5" 
                        FontWeight="Bold"/>
             <Button Content="Run Check" 
+                    Background="HotPink"
                     DockPanel.Dock="Bottom" 
                     Padding="10" Margin="10"
                     Command="{Binding EvaluateCommand}"/>
